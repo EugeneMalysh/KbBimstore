@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application BIMeta</Name>
+    <Assembly>KbBimstore\KbBimstore.dll</Assembly>
+    <ClientId>33e2efda-5790-48ce-aeff-8acda27622b2</ClientId>
+    <FullClassName>KbBimstore.KbBimstoreApp</FullClassName>
+    <VendorId>KBRS</VendorId>
+    <VendorDescription>BIMeta</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+

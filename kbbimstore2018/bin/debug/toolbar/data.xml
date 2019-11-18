@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Manage>Create Project,Add Views/Sheets,Align Views,License,Tab / Toolbar Renamer,Toolbar Manager</Manage>
+  <Details>Base &amp; Transition,Door &amp; Window,Ceiling,Millwork,Partition,Design Options</Details>
+  <Settings-and-Converter>Settings,AutoCAD Converter</Settings-and-Converter>
+  <Website>Search,BIMeta,Training</Website>
+  <Auto-Synchronize>Start</Auto-Synchronize>
+  <Renumber>Rooms,Doors,ViewPorts,Automatic Door,Automatic Door To|From</Renumber>
+  <Window-Tile>Left,Right,Top,Bottom,Bigger,Smaller,Load,Save</Window-Tile>
+  <Additional-Plugins>Tool Palettes,Set Door Offset,Remove All DWG Import Files,View Depth Override,Export To Excel,DWG Remover,Schedule Spell Check</Additional-Plugins>
+  <RevitCity></RevitCity>
+</root>

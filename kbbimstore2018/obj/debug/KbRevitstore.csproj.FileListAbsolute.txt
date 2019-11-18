@@ -1,0 +1,16 @@
+C:\Users\Vardan\Desktop\Revit\AlmineSoft_for_KB-REVITSTORE\bin\Debug\KbRevitstore.dll
+C:\Users\Vardan\Desktop\Revit\AlmineSoft_for_KB-REVITSTORE\bin\Debug\KbRevitstore.pdb
+C:\Users\Vardan\Desktop\Revit\AlmineSoft_for_KB-REVITSTORE\obj\Debug\KbRevitstore.dll
+C:\Users\Vardan\Desktop\Revit\AlmineSoft_for_KB-REVITSTORE\obj\Debug\KbRevitstore.pdb
+C:\Users\admin\Desktop\AlmineSoft_for_KB-REVITSTORE\bin\Debug\KbRevitstore.dll
+C:\Users\admin\Desktop\AlmineSoft_for_KB-REVITSTORE\bin\Debug\KbRevitstore.pdb
+C:\Users\admin\Desktop\AlmineSoft_for_KB-REVITSTORE\obj\Debug\KbRevitstore.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\AlmineSoft_for_KB-REVITSTORE\obj\Debug\KbRevitstore.dll
+C:\Users\admin\Desktop\AlmineSoft_for_KB-REVITSTORE\obj\Debug\KbRevitstore.pdb
+C:\Revit 2015 SDK-Subscription Release\Samples\AlmineSoft_for_KB-REVITSTORE\obj\Debug\KbRevitstore.dll
+C:\Revit 2015 SDK-Subscription Release\Samples\AlmineSoft_for_KB-REVITSTORE\bin\Debug\KbRevitstore.dll
+C:\Revit 2015 SDK-Subscription Release\Samples\AlmineSoft_for_KB-REVITSTORE\bin\Debug\KbRevitstore.pdb
+C:\Revit 2015 SDK-Subscription Release\Samples\AlmineSoft_for_KB-REVITSTORE\obj\Debug\KbRevitstore.pdb
+C:\Users\admin\Desktop\AlmineSoft_for_KB-REVITSTORE\obj\Debug\KbRevitstore.KbRevitstoreMainForm.resources
+C:\Users\admin\Desktop\AlmineSoft_for_KB-REVITSTORE\obj\Debug\KbRevitstore.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\AlmineSoft_for_KB-REVITSTORE\obj\Debug\KbRevitstore.Resource1.resources

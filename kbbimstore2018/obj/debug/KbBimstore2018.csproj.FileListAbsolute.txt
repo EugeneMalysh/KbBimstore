@@ -1,0 +1,185 @@
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Hunspellx64.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Hunspellx86.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\KbBimstore.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\KbBimstore.pdb
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\AdWindows.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\DetailAddin_KB.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\DWGFamilyRemover.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Excel.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\ExcelApi.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NetOffice.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NHunspell.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\OfficeApi.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\PLUSManaged.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\VBIDEApi.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\stdole.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Excel.pdb
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\ExcelApi.xml
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NetOffice.xml
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NHunspell.pdb
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\OfficeApi.xml
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\VBIDEApi.xml
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\PLUSManaged.XmlSerializers.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore2018.csprojAssemblyReference.cache
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\ToolPaletteUI.baml
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\WebBrowser.baml
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\ToolPaletteUI.g.cs
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\WebBrowser.g.cs
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore_MarkupCompile.cache
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.g.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AllDetailsImportsForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AlmMessageBox.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AutoSynchronizeForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.CadDetailConverterOutputForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AllDetailsImportsSettingsForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.CreateNewProjectForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.DesignOptionsForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.AboutForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KbBimStoreLicensing.Resource.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.TabToolbarRenamerForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.TabToolBarRenamerLockForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.TabToolBarRenamerUnlockForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ToolbarManager.Forms.NewToolbarForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ToolbarManager.Forms.ToolbarManagerForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ViewDepthOverrideForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.PageAlignmentToolForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.SetDoorOffsetForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.SuperFilterForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AddNewViewSheetsForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.CadDetailConverterSelectForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.Properties.Resources.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.Resource.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ToolPalettesOldForm.resources
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore2018.csproj.GenerateResource.cache
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore2018.csproj.CoreCompileInputs.cache
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore2018.csproj.CopyComplete
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.dll
+C:\Users\awmcc\Desktop\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.pdb
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Hunspellx64.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Hunspellx86.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\KbBimstore.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\KbBimstore.pdb
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\AdWindows.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\DetailAddin_KB.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\DWGFamilyRemover.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Excel.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\ExcelApi.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NetOffice.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NHunspell.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\OfficeApi.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\PLUSManaged.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\VBIDEApi.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\stdole.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Excel.pdb
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\ExcelApi.xml
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NetOffice.xml
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NHunspell.pdb
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\OfficeApi.xml
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\VBIDEApi.xml
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\PLUSManaged.XmlSerializers.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore2018.csprojAssemblyReference.cache
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\ToolPaletteUI.baml
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\WebBrowser.baml
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\ToolPaletteUI.g.cs
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\WebBrowser.g.cs
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore_MarkupCompile.cache
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.g.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AllDetailsImportsForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AlmMessageBox.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AutoSynchronizeForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.CadDetailConverterOutputForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AllDetailsImportsSettingsForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.CreateNewProjectForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.DesignOptionsForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.AboutForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KbBimStoreLicensing.Resource.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.TabToolbarRenamerForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.TabToolBarRenamerLockForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.TabToolBarRenamerUnlockForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ToolbarManager.Forms.NewToolbarForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ToolbarManager.Forms.ToolbarManagerForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ViewDepthOverrideForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.PageAlignmentToolForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.SetDoorOffsetForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.SuperFilterForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AddNewViewSheetsForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.CadDetailConverterSelectForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.Properties.Resources.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.Resource.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ToolPalettesOldForm.resources
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore2018.csproj.GenerateResource.cache
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore2018.csproj.CopyComplete
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.dll
+D:\Revit project docs\KB Bimstore\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.pdb
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore2018.csprojResolveAssemblyReference.cache
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\ToolPaletteUI.baml
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\WebBrowser.baml
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\ToolPaletteUI.g.cs
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\WebBrowser.g.cs
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore_MarkupCompile.cache
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.g.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AllDetailsImportsForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AlmMessageBox.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AutoSynchronizeForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.CadDetailConverterOutputForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AllDetailsImportsSettingsForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.CreateNewProjectForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.DesignOptionsForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.AboutForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KbBimStoreLicensing.Resource.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.TabToolbarRenamerForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.TabToolBarRenamerLockForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.TabToolBarRenamerUnlockForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ToolbarManager.Forms.NewToolbarForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ToolbarManager.Forms.ToolbarManagerForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ViewDepthOverrideForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.PageAlignmentToolForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.SetDoorOffsetForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.SuperFilterForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.AddNewViewSheetsForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.CadDetailConverterSelectForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.Properties.Resources.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.Resource.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.ToolPalettesOldForm.resources
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore2018.csproj.GenerateResource.Cache
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\obj\Debug\KbBimstore.pdb
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Hunspellx64.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Hunspellx86.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\KbBimstore.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\KbBimstore.pdb
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\AdWindows.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\DetailAddin_KB.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Excel.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\ExcelApi.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NetOffice.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NHunspell.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\OfficeApi.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\PLUSManaged.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\VBIDEApi.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\stdole.dll
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\Excel.pdb
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\ExcelApi.xml
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NetOffice.xml
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\NHunspell.pdb
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\OfficeApi.xml
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\VBIDEApi.xml
+D:\kbbimstore_2015-2017\kbbimstore2018\kbbimstore_2018\kbbimstore2018\bin\Debug\PLUSManaged.XmlSerializers.dll

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DetailContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Lineweights>
+    <Lineweight>
+      <OriginalName>Lineweight0</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight1</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight2</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight3</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight4</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight5</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight6</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight7</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight8</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight9</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight10</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight11</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight12</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight13</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight14</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight15</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight16</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight17</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight18</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight19</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight20</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight21</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight22</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight23</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight24</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+    <Lineweight>
+      <OriginalName>Lineweight25</OriginalName>
+      <OutputName />
+      <LineStyle />
+      <IconPath />
+    </Lineweight>
+  </Lineweights>
+  <Regions>
+    <Region>
+      <OriginalName>Region1</OriginalName>
+      <OutputName />
+      <RegionType />
+      <IconPath />
+    </Region>
+    <Region>
+      <OriginalName>Region2</OriginalName>
+      <OutputName />
+      <RegionType />
+      <IconPath />
+    </Region>
+    <Region>
+      <OriginalName>Region3</OriginalName>
+      <OutputName />
+      <RegionType />
+      <IconPath />
+    </Region>
+    <Region>
+      <OriginalName>Region4</OriginalName>
+      <OutputName />
+      <RegionType />
+      <IconPath />
+    </Region>
+    <Region>
+      <OriginalName>Region5</OriginalName>
+      <OutputName />
+      <RegionType />
+      <IconPath />
+    </Region>
+    <Region>
+      <OriginalName>Region6</OriginalName>
+      <OutputName />
+      <RegionType />
+      <IconPath />
+    </Region>
+    <Region>
+      <OriginalName>Region7</OriginalName>
+      <OutputName />
+      <RegionType />
+      <IconPath />
+    </Region>
+    <Region>
+      <OriginalName>Region8</OriginalName>
+      <OutputName />
+      <RegionType />
+      <IconPath />
+    </Region>
+  </Regions>
+  <ArchitecturalDetails>
+    <DetailComponent>
+      <OriginalName>ArchitecturalDetail1</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>ArchitecturalDetail2</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>ArchitecturalDetail3</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>ArchitecturalDetail4</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>ArchitecturalDetail5</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+  </ArchitecturalDetails>
+  <StructuralDetails>
+    <DetailComponent>
+      <OriginalName>StructuralDetail1</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>StructuralDetail2</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>StructuralDetail3</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>StructuralDetail4</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>StructuralDetail5</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+  </StructuralDetails>
+  <MechanicalDetails>
+    <DetailComponent>
+      <OriginalName>MechanicalDetails1</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>MechanicalDetails2</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>MechanicalDetails3</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>MechanicalDetails4</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>MechanicalDetails5</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+  </MechanicalDetails>
+  <ElectricalDetails>
+    <DetailComponent>
+      <OriginalName>ElectricalDetails1</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>ElectricalDetails2</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>ElectricalDetails3</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>ElectricalDetails4</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>ElectricalDetails5</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+  </ElectricalDetails>
+  <PlumbingDetails>
+    <DetailComponent>
+      <OriginalName>PlumbingDetails1</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>PlumbingDetails2</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>PlumbingDetails3</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>PlumbingDetails4</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+    <DetailComponent>
+      <OriginalName>PlumbingDetails5</OriginalName>
+      <OutputName />
+      <DetailItem />
+      <IconPath />
+    </DetailComponent>
+  </PlumbingDetails>
+</DetailContainer>

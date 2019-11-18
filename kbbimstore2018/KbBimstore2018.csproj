@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8CC3E79C-E4C6-401D-A2EA-A10790AC0E0B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KbBimstore</RootNamespace>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <StartAction>
+    </StartAction>
+    <StartProgram>
+    </StartProgram>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <StartAction>
+    </StartAction>
+    <StartProgram>
+    </StartProgram>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>..\..\..\..\..\ProgramData\Autodesk\Revit\Addins\2016\KbRevitstore\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyName>KbBimstore</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="AdWindows, Version=5.2.8.100, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\AdWindows.dll</HintPath>
+    </Reference>
+    <Reference Include="DetailAddin_KB, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DetailAddin_KB\2018\DetailAddin_KB.dll</HintPath>
+    </Reference>
+    <Reference Include="DWGFamilyRemover, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\latest\2018\DWGFamilyRemover.dll</HintPath>
+    </Reference>
+    <Reference Include="Excel, Version=2.1.2.3, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>packages\ExcelDataReader.2.1.2.3\lib\net45\Excel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ExcelApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=9084b9221296229e, processorArchitecture=MSIL">
+      <HintPath>packages\NetOffice.Excel.Net40.1.7.2.0\lib\net40\ExcelApi.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>packages\SharpZipLib.0.86.0\lib\20\ICSharpCode.SharpZipLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>packages\Excel-DNA.Interop.14.0.1\lib\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Vbe.Interop, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>packages\Excel-DNA.Interop.14.0.1\lib\Microsoft.Vbe.Interop.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NetOffice, Version=1.7.2.0, Culture=neutral, PublicKeyToken=297f57b43ae7c1de, processorArchitecture=MSIL">
+      <HintPath>packages\NetOffice.Core.Net40.1.7.2.0\lib\net40\NetOffice.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHunspell, Version=1.2.5554.16953, Culture=neutral, PublicKeyToken=1ac793ea843b4366, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\NHunspell.1.2.5554.16953\lib\net\NHunspell.dll</HintPath>
+    </Reference>
+    <Reference Include="Office, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>packages\Excel-DNA.Interop.14.0.1\lib\Office.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OfficeApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=a39beb0835c43c8e, processorArchitecture=MSIL">
+      <HintPath>packages\NetOffice.Core.Net40.1.7.2.0\lib\net40\OfficeApi.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PLUSManaged">
+      <HintPath>lib\PLUSManaged.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="PresentationFramework.Classic" />
+    <Reference Include="PresentationUI, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="ReachFramework" />
+    <Reference Include="RevitAPI">
+      <HintPath>C:\Program Files\Autodesk\Revit 2019\RevitAPI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="RevitAPIUI">
+      <HintPath>C:\Program Files\Autodesk\Revit 2019\RevitAPIUI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Reflection.Context" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="UIAutomationClientsideProviders" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="VBIDEApi, Version=1.7.2.0, Culture=neutral, PublicKeyToken=931cec8882205047, processorArchitecture=MSIL">
+      <HintPath>packages\NetOffice.Core.Net40.1.7.2.0\lib\net40\VBIDEApi.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllDetailsImportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllDetailsImportsForm.Designer.cs">
+      <DependentUpon>AllDetailsImportsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlmMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlmMessageBox.Designer.cs">
+      <DependentUpon>AlmMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutoClosingMessageBox.cs" />
+    <Compile Include="AutomaticDoorRenumberToFromForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutomaticDoorRenumberToFromForm.Designer.cs">
+      <DependentUpon>AutomaticDoorRenumberToFromForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutoSyncData.cs" />
+    <Compile Include="AutoSynchronizeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoSynchronizeForm.Designer.cs">
+      <DependentUpon>AutoSynchronizeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllDetailsImportsHandler.cs" />
+    <Compile Include="CadDetailConverterOutputForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadDetailConverterOutputForm.designer.cs">
+      <DependentUpon>CadDetailConverterOutputForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadDetailConverterHandlerFinal.cs" />
+    <Compile Include="CadDetailConverterRequestData.cs" />
+    <Compile Include="AutomaticDoorRenumberHandler.cs" />
+    <Compile Include="AutomaticDoorRenumberProcessor.cs" />
+    <Compile Include="AllDetailsImportsSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllDetailsImportsSettingsForm.Designer.cs">
+      <DependentUpon>AllDetailsImportsSettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutomaticDoorRenumberToFromHandler.cs" />
+    <Compile Include="AutomaticDoorRenumberToFromProcessor.cs" />
+    <Compile Include="AutoSynchronizeProcessor.cs" />
+    <Compile Include="Command.cs" />
+    <Compile Include="CreateNewProjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateNewProjectForm.Designer.cs">
+      <DependentUpon>CreateNewProjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateNewProjectModelLevel.cs" />
+    <Compile Include="CreateNewProjectModelMain.cs" />
+    <Compile Include="CreateNewProjectRequestData.cs" />
+    <Compile Include="CreateNewProjectRequestHandler.cs" />
+    <Compile Include="KbBimStoreLicensing\AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KbBimStoreLicensing\AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KbBimStoreLicensing\ApplicationFeatures\Feature.cs" />
+    <Compile Include="KbBimStoreLicensing\ApplicationFeatures\Features.cs" />
+    <Compile Include="KbBimStoreLicensing\LicenseConfiguration.cs" />
+    <Compile Include="KbBimStoreLicensing\LicenseStarter.cs" />
+    <Compile Include="KbBimStoreLicensing\LicenseUpdater.cs" />
+    <Compile Include="KbBimStoreLicensing\ManualActivationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KbBimStoreLicensing\ManualActivationForm.Designer.cs">
+      <DependentUpon>ManualActivationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KbBimStoreLicensing\OnlineActivationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KbBimStoreLicensing\OnlineActivationForm.Designer.cs">
+      <DependentUpon>OnlineActivationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KbBimStoreLicensing\ProxyCredentialsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KbBimStoreLicensing\ProxyCredentialsForm.Designer.cs">
+      <DependentUpon>ProxyCredentialsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KbBimStoreLicensing\Resource.Designer.cs">
+      <DependentUpon>Resource.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="KbBimStoreLicensing\SampleLicense.cs" />
+    <Compile Include="KbBimStoreLicensing\SampleReadOnlyLicense.cs" />
+    <Compile Include="KbBimStoreLicensing\SplashScreen.cs" />
+    <Compile Include="KbBimStoreLicensing\SplashScreenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KbBimStoreLicensing\SplashScreenForm.Designer.cs">
+      <DependentUpon>SplashScreenForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KbBimStoreLicensing\WebServiceHelper.cs" />
+    <Compile Include="KbBimstoreApp.cs" />
+    <Compile Include="KbBimstoreCmds.cs" />
+    <Compile Include="ExportToExcelProcessor.cs" />
+    <Compile Include="KbBimstoreTab.cs" />
+    <Compile Include="KbBimstoreToolbar.cs" />
+    <Compile Include="KbBimStoreTrialLicensing\TrialAuthenticationObject.cs" />
+    <Compile Include="KbBimStoreTrialLicensing\TrialComputerInfo.cs" />
+    <Compile Include="KbBimStoreTrialLicensing\TrialConnection.cs" />
+    <Compile Include="KbBimStoreTrialLicensing\TrialRegistration.cs" />
+    <Compile Include="KbBimStoreTrialLicensing\TrialSettings.cs" />
+    <Compile Include="KbBimStoreTrialLicensing\TrialWebServiceInterface.cs" />
+    <Compile Include="PageAlignmentToolRequestHandler.cs" />
+    <Compile Include="Schedules\SpellingChecker.cs" />
+    <Compile Include="SecurityUtils.cs" />
+    <Compile Include="TabToolbarRenamerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabToolbarRenamerForm.Designer.cs">
+      <DependentUpon>TabToolbarRenamerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TabToolBarRenamerLockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabToolBarRenamerLockForm.Designer.cs">
+      <DependentUpon>TabToolBarRenamerLockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TabToolBarRenamerUnlockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabToolBarRenamerUnlockForm.Designer.cs">
+      <DependentUpon>TabToolBarRenamerUnlockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToolbarManager\Forms\NewToolbarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToolbarManager\Forms\NewToolbarForm.designer.cs">
+      <DependentUpon>NewToolbarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToolbarManager\Forms\ToolbarManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToolbarManager\Forms\ToolbarManagerForm.designer.cs">
+      <DependentUpon>ToolbarManagerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToolbarManager\ToolbarItem.cs" />
+    <Compile Include="ToolPaletteUI.xaml.cs">
+      <DependentUpon>ToolPaletteUI.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewDepthOverrideForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewDepthOverrideForm.designer.cs">
+      <DependentUpon>ViewDepthOverrideForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LineWeightSettings.cs" />
+    <Compile Include="RemoveDwgImportsHandler.cs" />
+    <Compile Include="SetDoorOffsetHandler.cs" />
+    <Compile Include="SetDoorOffsetProcessor.cs" />
+    <Compile Include="RenumberViewportsProcessor.cs" />
+    <Compile Include="RenumberViewportsHandler.cs" />
+    <Compile Include="RenumberByDoorsHandler.cs" />
+    <Compile Include="RenumberByDoorsProcessor.cs" />
+    <Compile Include="RenumberByRoomsHandler.cs" />
+    <Compile Include="RenumberByRoomsProcessor.cs" />
+    <Compile Include="SuperFilterProcessor.cs" />
+    <Compile Include="PageAlignmentToolProcessor.cs" />
+    <Compile Include="DesignOptionstRequestHandlerInit.cs" />
+    <Compile Include="DesignOptionsRequestData.cs" />
+    <Compile Include="DesignOptionstRequestHandler.cs" />
+    <Compile Include="DesignOptionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesignOptionsForm.designer.cs">
+      <DependentUpon>DesignOptionsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PageAlignmentToolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PageAlignmentToolForm.Designer.cs">
+      <DependentUpon>PageAlignmentToolForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetDoorOffsetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetDoorOffsetForm.Designer.cs">
+      <DependentUpon>SetDoorOffsetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SuperFilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuperFilterForm.Designer.cs">
+      <DependentUpon>SuperFilterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToolPalettesOldForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToolPalettesOldForm.Designer.cs">
+      <DependentUpon>ToolPalettesOldForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewViewSheetsRequestHandler.cs" />
+    <Compile Include="AddNewViewSheetsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewViewSheetsForm.Designer.cs">
+      <DependentUpon>AddNewViewSheetsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewViewSheetsRequestData.cs" />
+    <Compile Include="CadDetailConverterHandler.cs" />
+    <Compile Include="CadDetailConverterSelectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadDetailConverterSelectForm.Designer.cs">
+      <DependentUpon>CadDetailConverterSelectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KbBimstoreConst.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="KbBimstoreRequest.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
+    <Compile Include="WebBrowser.xaml.cs">
+      <DependentUpon>WebBrowser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WindowTileSizesProcessor.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KbBimstore.addin" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AllDetailsImportsForm.resx">
+      <DependentUpon>AllDetailsImportsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlmMessageBox.resx">
+      <DependentUpon>AlmMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutomaticDoorRenumberToFromForm.resx">
+      <DependentUpon>AutomaticDoorRenumberToFromForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoSynchronizeForm.resx">
+      <DependentUpon>AutoSynchronizeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadDetailConverterOutputForm.resx">
+      <DependentUpon>CadDetailConverterOutputForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllDetailsImportsSettingsForm.resx">
+      <DependentUpon>AllDetailsImportsSettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateNewProjectForm.resx">
+      <DependentUpon>CreateNewProjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignOptionsForm.resx">
+      <DependentUpon>DesignOptionsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KbBimStoreLicensing\AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KbBimStoreLicensing\ManualActivationForm.resx">
+      <DependentUpon>ManualActivationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KbBimStoreLicensing\OnlineActivationForm.resx">
+      <DependentUpon>OnlineActivationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KbBimStoreLicensing\ProxyCredentialsForm.resx">
+      <DependentUpon>ProxyCredentialsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KbBimStoreLicensing\Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KbBimStoreLicensing\SplashScreenForm.resx">
+      <DependentUpon>SplashScreenForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabToolbarRenamerForm.resx">
+      <DependentUpon>TabToolbarRenamerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabToolBarRenamerLockForm.resx">
+      <DependentUpon>TabToolBarRenamerLockForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabToolBarRenamerUnlockForm.resx">
+      <DependentUpon>TabToolBarRenamerUnlockForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolbarManager\Forms\NewToolbarForm.resx">
+      <DependentUpon>NewToolbarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolbarManager\Forms\ToolbarManagerForm.resx">
+      <DependentUpon>ToolbarManagerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewDepthOverrideForm.resx">
+      <DependentUpon>ViewDepthOverrideForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PageAlignmentToolForm.resx">
+      <DependentUpon>PageAlignmentToolForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetDoorOffsetForm.resx">
+      <DependentUpon>SetDoorOffsetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperFilterForm.resx">
+      <DependentUpon>SuperFilterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewViewSheetsForm.resx">
+      <DependentUpon>AddNewViewSheetsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadDetailConverterSelectForm.resx">
+      <DependentUpon>CadDetailConverterSelectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolPalettesOldForm.resx">
+      <DependentUpon>ToolPalettesOldForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="ToolPaletteUI.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="WebBrowser.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Hunspellx64.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Hunspellx86.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="KbBimStoreLicensing\Resources\splashscreen.jpg" />
+    <None Include="Resources\Create Project.png" />
+    <None Include="Resources\ArrowDirection.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="AfterClean">
+  </Target>
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

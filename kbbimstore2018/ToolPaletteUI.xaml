@@ -1,0 +1,19 @@
+﻿<Page x:Class="KbBimstore.ToolPaletteUI"
+             xmlns:scm="clr-namespace:System.ComponentModel;assembly=WindowsBase"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:dat="clr-namespace:System.Windows.Data;assembly=PresentationFramework"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:System="clr-namespace:System;assembly=mscorlib"
+        Title="Dockable Dialogs"  Height="500" Width="415"
+        x:Name="DockableDialogs"  Background="LightGray" Loaded="DockableDialogs_Loaded">
+    <Grid HorizontalAlignment="Left" Height="502" VerticalAlignment="Top" Width="425" Margin="0,0,-10,-2">
+        <Border x:Name="ToolPalettesForm" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top">
+            <Button x:Name="buttonMechanical" Content="Mechanical Fixtures" Width="120" Click="buttonMechanical_Click"/>
+
+        </Border>
+        <Button x:Name="buttonPlumbing" Content="Plumbing Fixtures" HorizontalAlignment="Left" Margin="151,12,0,0" VerticalAlignment="Top" Width="120" Click="buttonPlumbing_Click"/>
+        <Button x:Name="buttonElectrical" Content="Electrical Fixtures" HorizontalAlignment="Left" Margin="286,12,0,0" VerticalAlignment="Top" Width="120" Click="buttonElectrical_Click"/>
+        <TreeView x:Name="treeViewTool" HorizontalAlignment="Left" Height="427" Margin="10,52,0,0" VerticalAlignment="Top" Width="200" SelectedItemChanged="treeViewTool_SelectedItemChanged" MouseDoubleClick="treeViewTool_MouseDoubleClick"/>
+        <Image x:Name="pictureBoxPalette" HorizontalAlignment="Left" Height="160" Margin="229,52,0,0" VerticalAlignment="Top" Width="160"/>
+    </Grid>
+</Page>

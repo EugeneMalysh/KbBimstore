@@ -1,0 +1,323 @@
+C:\ProgramData\Autodesk\Revit\Addins\2016\KbBimstore\KbBimstore.dll
+C:\ProgramData\Autodesk\Revit\Addins\2016\KbBimstore\KbBimstore.pdb
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.baml
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\WebBrowser.baml
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.g.cs
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\WebBrowser.g.cs
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore_MarkupCompile.cache
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.g.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AlmMessageBox.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutoSynchronizeForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterOutputForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsSettingsForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CreateNewProjectForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.DesignOptionsForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.AboutForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KbBimStoreLicensing.Resource.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ViewDepthOverrideForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.PageAlignmentToolForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SetDoorOffsetForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SuperFilterForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AddNewViewSheetsForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterSelectForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Properties.Resources.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Resource.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ToolPalettesOldForm.resources
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.dll
+C:\Users\admin\Desktop\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.pdb
+H:\ProgramData\Autodesk\Revit\Addins\2017\KbBimstore\KbBimstore.dll
+H:\ProgramData\Autodesk\Revit\Addins\2017\KbBimstore\KbBimstore.pdb
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.baml
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\WebBrowser.baml
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.g.cs
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\WebBrowser.g.cs
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore_MarkupCompile.cache
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.g.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AlmMessageBox.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutoSynchronizeForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterOutputForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsSettingsForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CreateNewProjectForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.DesignOptionsForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.AboutForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KbBimStoreLicensing.Resource.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ViewDepthOverrideForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.PageAlignmentToolForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SetDoorOffsetForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SuperFilterForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AddNewViewSheetsForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterSelectForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Properties.Resources.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Resource.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ToolPalettesOldForm.resources
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csproj.GenerateResource.Cache
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.dll
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.pdb
+H:\KB-BIM\FINISHED PLUGINS\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csprojResolveAssemblyReference.cache
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csprojResolveAssemblyReference.cache
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.baml
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\WebBrowser.baml
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.g.cs
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\WebBrowser.g.cs
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore_MarkupCompile.cache
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.g.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AlmMessageBox.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutoSynchronizeForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterOutputForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsSettingsForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CreateNewProjectForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.DesignOptionsForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.AboutForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KbBimStoreLicensing.Resource.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ViewDepthOverrideForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.PageAlignmentToolForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SetDoorOffsetForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SuperFilterForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AddNewViewSheetsForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterSelectForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Properties.Resources.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Resource.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ToolPalettesOldForm.resources
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csproj.GenerateResource.Cache
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.dll
+F:\Dropbox\Dropbox\Personal\Final Plugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.pdb
+C:\ProgramData\Autodesk\Revit\Addins\2017\KbBimstore\KbBimstore.dll
+C:\ProgramData\Autodesk\Revit\Addins\2017\KbBimstore\KbBimstore.pdb
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.baml
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\WebBrowser.baml
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.g.cs
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\WebBrowser.g.cs
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore_MarkupCompile.cache
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.g.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AlmMessageBox.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutoSynchronizeForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterOutputForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsSettingsForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CreateNewProjectForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.DesignOptionsForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.AboutForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KbBimStoreLicensing.Resource.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ViewDepthOverrideForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.PageAlignmentToolForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SetDoorOffsetForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SuperFilterForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AddNewViewSheetsForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterSelectForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Properties.Resources.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Resource.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ToolPalettesOldForm.resources
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.dll
+C:\Users\admin\Desktop\KBBimStoreFinalPlugins\KbBimstore_2017_20160702\KbBimstore_2017\kbbimstore2017\obj\Release\KbBimstore.pdb
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.baml
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\WebBrowser.baml
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.g.cs
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\WebBrowser.g.cs
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore_MarkupCompile.cache
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.g.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AlmMessageBox.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutoSynchronizeForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterOutputForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsSettingsForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CreateNewProjectForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.DesignOptionsForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.AboutForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KbBimStoreLicensing.Resource.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ViewDepthOverrideForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.PageAlignmentToolForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SetDoorOffsetForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SuperFilterForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AddNewViewSheetsForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterSelectForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Properties.Resources.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Resource.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ToolPalettesOldForm.resources
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csproj.GenerateResource.Cache
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.dll
+H:\KB-BIM\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.pdb
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.baml
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\WebBrowser.baml
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.g.cs
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\WebBrowser.g.cs
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore_MarkupCompile.cache
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.g.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AlmMessageBox.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutoSynchronizeForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterOutputForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsSettingsForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CreateNewProjectForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.DesignOptionsForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.AboutForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KbBimStoreLicensing.Resource.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ViewDepthOverrideForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.PageAlignmentToolForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SetDoorOffsetForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SuperFilterForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AddNewViewSheetsForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterSelectForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Properties.Resources.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Resource.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ToolPalettesOldForm.resources
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csproj.GenerateResource.Cache
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.dll
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.pdb
+C:\ProgramData\Autodesk\ApplicationPlugins\KB-BimStore Ultimate Plugin Suite 2017.bundle\Contents\KbBimstore.dll
+C:\ProgramData\Autodesk\ApplicationPlugins\KB-BimStore Ultimate Plugin Suite 2017.bundle\Contents\KbBimstore.pdb
+H:\KB-BimStore\FINISHED PLUGINS\kbbimstore_2015-2017_20160729\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.baml
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\WebBrowser.baml
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.g.cs
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\WebBrowser.g.cs
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore_MarkupCompile.cache
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.g.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AlmMessageBox.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutoSynchronizeForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterOutputForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsSettingsForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CreateNewProjectForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.DesignOptionsForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.AboutForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KbBimStoreLicensing.Resource.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ViewDepthOverrideForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.PageAlignmentToolForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SetDoorOffsetForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SuperFilterForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AddNewViewSheetsForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterSelectForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Properties.Resources.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Resource.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ToolPalettesOldForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.pdb
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.baml
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\WebBrowser.baml
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.g.cs
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\WebBrowser.g.cs
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore_MarkupCompile.cache
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.g.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AlmMessageBox.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutoSynchronizeForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterOutputForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsSettingsForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CreateNewProjectForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.DesignOptionsForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.AboutForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KbBimStoreLicensing.Resource.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ViewDepthOverrideForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.PageAlignmentToolForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SetDoorOffsetForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SuperFilterForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AddNewViewSheetsForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterSelectForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Properties.Resources.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Resource.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ToolPalettesOldForm.resources
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.dll
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.pdb
+C:\Users\Andy\Desktop\RevDev Studios\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.baml
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\WebBrowser.baml
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\ToolPaletteUI.g.cs
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\WebBrowser.g.cs
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore_MarkupCompile.cache
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.g.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AlmMessageBox.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutomaticDoorRenumberToFromForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AutoSynchronizeForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterOutputForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AllDetailsImportsSettingsForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CreateNewProjectForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.DesignOptionsForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.AboutForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ManualActivationForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.OnlineActivationForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.ProxyCredentialsForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KbBimStoreLicensing.Resource.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.KBRevitLicensing.SplashScreenForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ViewDepthOverrideForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.PageAlignmentToolForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SetDoorOffsetForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.SuperFilterForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.AddNewViewSheetsForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.CadDetailConverterSelectForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Properties.Resources.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.Resource.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.ToolPalettesOldForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.pdb
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore2017.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.TabToolbarRenamerForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.TabToolBarRenamerLockForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\obj\Release\KbBimstore.TabToolBarRenamerUnlockForm.resources
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\KbBimstore.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\KbBimstore.pdb
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\AdWindows.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\DetailAddin_KB.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\Excel.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\ExcelApi.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\NetOffice.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\OfficeApi.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\PLUSManaged.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\VBIDEApi.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\stdole.dll
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\Excel.pdb
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\ExcelApi.xml
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\NetOffice.xml
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\OfficeApi.xml
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\VBIDEApi.xml
+C:\Users\Andy\Desktop\kbbimstore_2015-2017\kbbimstore_2015-2017\kbbimstore2017\kbbimstore_2017\kbbimstore2017\bin\Release\PLUSManaged.XmlSerializers.dll

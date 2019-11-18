@@ -1,0 +1,14 @@
+C:\Program Files\Autodesk\Revit Architecture 2015\AddIns\KbRevitstore\KbRevitstore.dll
+C:\Users\Vardan\Desktop\Revit\AlmineSoft_for_KB-REVITSTORE\bin\Release\KbRevitstore.dll
+C:\Users\Vardan\Desktop\Revit\AlmineSoft_for_KB-REVITSTORE\bin\Release\KbRevitstore.pdb
+C:\Users\Vardan\Desktop\Revit\AlmineSoft_for_KB-REVITSTORE\obj\Release\KbRevitstore.dll
+C:\Users\Vardan\Desktop\Revit\AlmineSoft_for_KB-REVITSTORE\obj\Release\KbRevitstore.pdb
+C:\Revit 2015 SDK-Subscription Release\Samples\AlmineSoft_for_KB-REVITSTORE\bin\Release\KbRevitstore.dll
+C:\Revit 2015 SDK-Subscription Release\Samples\AlmineSoft_for_KB-REVITSTORE\bin\Release\KbRevitstore.pdb
+C:\ProgramData\Autodesk\Revit\Addins\2015\KbRevitstore.dll
+C:\ProgramData\Autodesk\Revit\Addins\2015\KbRevitstore.pdb
+C:\Revit 2015 SDK-Subscription Release\Samples\AlmineSoft_for_KB-REVITSTORE\obj\Release\KbRevitstore.csprojResolveAssemblyReference.cache
+C:\Revit 2015 SDK-Subscription Release\Samples\AlmineSoft_for_KB-REVITSTORE\obj\Release\KbRevitstore.KbRevitstoreMainForm.resources
+C:\Revit 2015 SDK-Subscription Release\Samples\AlmineSoft_for_KB-REVITSTORE\obj\Release\KbRevitstore.csproj.GenerateResource.Cache
+C:\Revit 2015 SDK-Subscription Release\Samples\AlmineSoft_for_KB-REVITSTORE\obj\Release\KbRevitstore.dll
+C:\Revit 2015 SDK-Subscription Release\Samples\AlmineSoft_for_KB-REVITSTORE\obj\Release\KbRevitstore.pdb

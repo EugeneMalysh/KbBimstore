@@ -1,0 +1,135 @@
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\ToolPaletteUI.baml
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\WebBrowser.baml
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\ToolPaletteUI.g.cs
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\WebBrowser.g.cs
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore_MarkupCompile.cache
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.g.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AlmMessageBox.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AutomaticDoorRenumberToFromForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AutoSynchronizeForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CadDetailConverterOutputForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AllDetailsImportsForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AllDetailsImportsSettingsForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.DesignOptionsForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.AboutForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.ManualActivationForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.OnlineActivationForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.ProxyCredentialsForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.Resource.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.SplashScreenForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.ViewDepthOverrideForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.PageAlignmentToolForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.SetDoorOffsetForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.SuperFilterForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AddNewViewSheetsForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CadDetailConverterSelectForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CreateNewProjectForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.Properties.Resources.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.Resource1.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.ToolPalettesOldForm.resources
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore2016.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.dll
+C:\Users\admin\Desktop\KBRevitstoe_26092015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.pdb
+C:\Users\ProgramData\Autodesk\Revit\Addins\2016\KbRevitstore\KbRevitstore.dll
+C:\Users\ProgramData\Autodesk\Revit\Addins\2016\KbRevitstore\KbRevitstore.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore2016.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\ToolPaletteUI.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\WebBrowser.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\ToolPaletteUI.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\WebBrowser.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.g.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AlmMessageBox.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AutomaticDoorRenumberToFromForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AutoSynchronizeForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CadDetailConverterOutputForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AllDetailsImportsForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AllDetailsImportsSettingsForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.DesignOptionsForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.AboutForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.ManualActivationForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.OnlineActivationForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.ProxyCredentialsForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.Resource.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.SplashScreenForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.ViewDepthOverrideForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.PageAlignmentToolForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.SetDoorOffsetForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.SuperFilterForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AddNewViewSheetsForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CadDetailConverterSelectForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CreateNewProjectForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.Resource1.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.ToolPalettesOldForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore2016.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.pdb
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore2016.csprojResolveAssemblyReference.cache
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\ToolPaletteUI.baml
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\WebBrowser.baml
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\ToolPaletteUI.g.cs
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\WebBrowser.g.cs
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore_MarkupCompile.cache
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.g.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AlmMessageBox.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AutomaticDoorRenumberToFromForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AutoSynchronizeForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CadDetailConverterOutputForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AllDetailsImportsForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AllDetailsImportsSettingsForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.DesignOptionsForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.AboutForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.ManualActivationForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.OnlineActivationForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.ProxyCredentialsForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.Resource.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.SplashScreenForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.ViewDepthOverrideForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.PageAlignmentToolForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.SetDoorOffsetForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.SuperFilterForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AddNewViewSheetsForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CadDetailConverterSelectForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CreateNewProjectForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.Properties.Resources.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.Resource1.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.ToolPalettesOldForm.resources
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore2016.csproj.GenerateResource.Cache
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.dll
+C:\Users\Kevin J Bruno\Desktop\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.pdb
+C:\ProgramData\Autodesk\Revit\Addins\2016\KbRevitstore\KbRevitstore.dll
+C:\ProgramData\Autodesk\Revit\Addins\2016\KbRevitstore\KbRevitstore.pdb
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore2016.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\ToolPaletteUI.baml
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\WebBrowser.baml
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\ToolPaletteUI.g.cs
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\WebBrowser.g.cs
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore_MarkupCompile.cache
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.g.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AlmMessageBox.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AutomaticDoorRenumberToFromForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AutoSynchronizeForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CadDetailConverterOutputForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AllDetailsImportsForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AllDetailsImportsSettingsForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.DesignOptionsForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.AboutForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.ManualActivationForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.OnlineActivationForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.ProxyCredentialsForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.Resource.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.KBRevitLicensing.SplashScreenForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.ViewDepthOverrideForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.PageAlignmentToolForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.SetDoorOffsetForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.SuperFilterForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.AddNewViewSheetsForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CadDetailConverterSelectForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.CreateNewProjectForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.Properties.Resources.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.Resource1.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.ToolPalettesOldForm.resources
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore2016.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.dll
+C:\Users\admin\Desktop\KBRevitstore_08112015\AlmineSoft_for_KB-REVITSTORE_Revit2016\obj\Release\KbRevitstore.pdb
